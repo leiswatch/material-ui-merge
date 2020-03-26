@@ -19,7 +19,7 @@ export default (
       <Typography variant="h6" color="inherit" uxpId="5">
         News
       </Typography>
-      <Button color="inherit" uxpId="6">Login</Button>
+      <Button color="inherit" uxpId="6">Loginsssssss</Button>
     </Toolbar>
   </AppBar>
 );
