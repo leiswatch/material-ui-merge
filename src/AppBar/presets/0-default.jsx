@@ -14,7 +14,7 @@ export default (
         aria-label="Menu"
         uxpId="3"
       >
-        <Icon uxpId="4">menus</Icon>
+        <Icon uxpId="4">menu</Icon>
       </IconButton>
       <Typography variant="h6" color="inherit" uxpId="5">
         News
